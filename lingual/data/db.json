@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "sbjhasbhjasb",
+      "email": "sacbjha@gmail.com",
+      "hash": "$2a$08$89VoKn13tCy1ytu8hBsPsOlhA7gwQ8O11fA2hJRC4z6Vv9slNcB5G",
+      "xp": 0,
+      "streak": 0,
+      "lastActive": null,
+      "progress": {},
+      "lessonProgress": {},
+      "dailyGoal": 50,
+      "daily": {
+        "date": null,
+        "xp": 0
+      },
+      "certs": {}
+    },
+    {
+      "name": "wdkhukhw",
+      "email": "wejha@gmail.com",
+      "hash": "$2a$08$Mb0s0YrThHXBH/qMCZ5wFuEtde2IPM8qIUBNueL2pe4hf1.8UHWnS",
+      "xp": 0,
+      "streak": 0,
+      "lastActive": null,
+      "progress": {},
+      "lessonProgress": {},
+      "dailyGoal": 50,
+      "daily": {
+        "date": null,
+        "xp": 0
+      },
+      "certs": {}
+    }
+  ],
+  "waitlist": [
+    {
+      "email": "example@gmail.com",
+      "date": "2026-10-06"
+    },
+    {
+      "email": "wejha@gmail.com",
+      "date": "2026-10-06"
+    }
+  ]
+}

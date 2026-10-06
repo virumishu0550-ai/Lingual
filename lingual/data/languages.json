@@ -1,0 +1,254 @@
+[
+{"id":"marathi","name":"Marathi","native":"मराठी","code":"mr-IN","learners":"850K Learners","lessons":[
+ {"id":"basics","title":"Basics","icon":"📚","words":[
+   ["नमस्कार","Namaskar","Hello"],
+   ["धन्यवाद","Dhanyavad","Thank you"],
+   ["होय","Hoy","Yes"],
+   ["नाही","Nahi","No"],
+   ["पाणी","Pani","Water"],
+   ["जेवण","Jevan","Food"],
+   ["मित्र","Mitra","Friend"],
+   ["कृपया","Krupaya","Please"]
+ ]},
+ {"id":"greetings","title":"Greetings","icon":"👋","words":[
+   ["शुभ प्रभात","Shubh Prabhat","Good morning"],
+   ["शुभ संध्याकाळ","Shubh Sandhyakal","Good evening"],
+   ["शुभ रात्री","Shubh Ratri","Good night"],
+   ["स्वागत","Swagat","Welcome"],
+   ["पुन्हा भेटू","Punha bhetu","See you again"],
+   ["तुम्ही कसे आहात?","Tumhi kase aahat?","How are you?"],
+   ["मी ठीक आहे","Mi theek aahe","I am fine"],
+   ["माफ करा","Maaf kara","Sorry"]
+ ]},
+ {"id":"numbers","title":"Numbers 1–8","icon":"🔢","words":[
+   ["एक","Ek","One"],
+   ["दोन","Don","Two"],
+   ["तीन","Teen","Three"],
+   ["चार","Char","Four"],
+   ["पाच","Paach","Five"],
+   ["सहा","Saha","Six"],
+   ["सात","Saat","Seven"],
+   ["आठ","Aath","Eight"]
+ ]},
+ {"id":"phrases","title":"Useful Phrases","icon":"💬","words":[
+   ["तुमचे नाव काय आहे?","Tumche naav kay aahe?","What is your name?"],
+   ["मला समजत नाही","Mala samajat nahi","I do not understand"],
+   ["याची किंमत किती आहे?","Yachi kimmat kiti aahe?","How much is this?"],
+   ["स्वच्छतागृह कुठे आहे?","Swachchhatagruh kuthe aahe?","Where is the bathroom?"],
+   ["मला भूक लागली आहे","Mala bhook laagli aahe","I am hungry"],
+   ["मला तहान लागली आहे","Mala tahaan laagli aahe","I am thirsty"],
+   ["मला मदत करा","Mala madat kara","Please help me"],
+   ["तुम्हाला इंग्रजी येते का?","Tumhala Engraji yete ka?","Do you speak English?"]
+ ]}
+]},
+{"id":"hindi","name":"Hindi","native":"हिन्दी","code":"hi-IN","learners":"780K Learners","lessons":[
+ {"id":"basics","title":"Basics","icon":"📚","words":[
+   ["नमस्ते","Namaste","Hello"],
+   ["धन्यवाद","Dhanyavaad","Thank you"],
+   ["हाँ","Haan","Yes"],
+   ["नहीं","Nahin","No"],
+   ["पानी","Paani","Water"],
+   ["खाना","Khaana","Food"],
+   ["दोस्त","Dost","Friend"],
+   ["कृपया","Kripaya","Please"]
+ ]},
+ {"id":"greetings","title":"Greetings","icon":"👋","words":[
+   ["सुप्रभात","Suprabhat","Good morning"],
+   ["शुभ संध्या","Shubh Sandhya","Good evening"],
+   ["शुभ रात्रि","Shubh Ratri","Good night"],
+   ["स्वागत है","Swagat hai","Welcome"],
+   ["फिर मिलेंगे","Phir milenge","See you again"],
+   ["आप कैसे हैं?","Aap kaise hain?","How are you?"],
+   ["मैं ठीक हूँ","Main theek hoon","I am fine"],
+   ["माफ़ कीजिए","Maaf kijiye","Sorry"]
+ ]},
+ {"id":"numbers","title":"Numbers 1–8","icon":"🔢","words":[
+   ["एक","Ek","One"],
+   ["दो","Do","Two"],
+   ["तीन","Teen","Three"],
+   ["चार","Chaar","Four"],
+   ["पाँच","Paanch","Five"],
+   ["छह","Chhah","Six"],
+   ["सात","Saat","Seven"],
+   ["आठ","Aath","Eight"]
+ ]},
+ {"id":"phrases","title":"Useful Phrases","icon":"💬","words":[
+   ["आपका नाम क्या है?","Aapka naam kya hai?","What is your name?"],
+   ["मुझे समझ नहीं आया","Mujhe samajh nahin aaya","I do not understand"],
+   ["यह कितने का है?","Yah kitne ka hai?","How much is this?"],
+   ["शौचालय कहाँ है?","Shauchalay kahaan hai?","Where is the bathroom?"],
+   ["मुझे भूख लगी है","Mujhe bhookh lagi hai","I am hungry"],
+   ["मुझे प्यास लगी है","Mujhe pyaas lagi hai","I am thirsty"],
+   ["कृपया मेरी मदद कीजिए","Kripya meri madad kijiye","Please help me"],
+   ["क्या आप अंग्रेज़ी बोलते हैं?","Kya aap angrezi bolte hain?","Do you speak English?"]
+ ]}
+]},
+{"id":"tamil","name":"Tamil","native":"தமிழ்","code":"ta-IN","learners":"920K Learners","lessons":[
+ {"id":"basics","title":"Basics","icon":"📚","words":[
+   ["வணக்கம்","Vanakkam","Hello"],
+   ["நன்றி","Nandri","Thank you"],
+   ["ஆம்","Aam","Yes"],
+   ["இல்லை","Illai","No"],
+   ["தண்ணீர்","Thanneer","Water"],
+   ["உணவு","Unavu","Food"],
+   ["நண்பன்","Nanban","Friend"],
+   ["தயவுசெய்து","Dayavu seydhu","Please"]
+ ]},
+ {"id":"greetings","title":"Greetings","icon":"👋","words":[
+   ["காலை வணக்கம்","Kaalai vanakkam","Good morning"],
+   ["மாலை வணக்கம்","Maalai vanakkam","Good evening"],
+   ["இரவு வணக்கம்","Iravu vanakkam","Good night"],
+   ["வரவேற்கிறோம்","Varaverkirom","Welcome"],
+   ["மீண்டும் சந்திப்போம்","Meendum sandhippom","See you again"],
+   ["எப்படி இருக்கிறீர்கள்?","Eppadi irukkireergal?","How are you?"],
+   ["நான் நலமாக இருக்கிறேன்","Naan nalamaaga irukkiren","I am fine"],
+   ["மன்னிக்கவும்","Mannikkavum","Sorry"]
+ ]},
+ {"id":"numbers","title":"Numbers 1–8","icon":"🔢","words":[
+   ["ஒன்று","Ondru","One"],
+   ["இரண்டு","Irandu","Two"],
+   ["மூன்று","Moondru","Three"],
+   ["நான்கு","Naangu","Four"],
+   ["ஐந்து","Ainthu","Five"],
+   ["ஆறு","Aaru","Six"],
+   ["ஏழு","Ezhu","Seven"],
+   ["எட்டு","Ettu","Eight"]
+ ]},
+ {"id":"phrases","title":"Useful Phrases","icon":"💬","words":[
+   ["உங்கள் பெயர் என்ன?","Ungal peyar enna?","What is your name?"],
+   ["எனக்கு புரியவில்லை","Enakku puriyavillai","I do not understand"],
+   ["இது எவ்வளவு?","Idhu evvalavu?","How much is this?"],
+   ["கழிவறை எங்கே இருக்கிறது?","Kazhivarai engae irukkiradhu?","Where is the bathroom?"],
+   ["எனக்கு பசிக்கிறது","Enakku pasikkiradhu","I am hungry"],
+   ["எனக்கு தாகமாக இருக்கிறது","Enakku dhaagamaaga irukkiradhu","I am thirsty"],
+   ["எனக்கு உதவி செய்யுங்கள்","Enakku udhavi seyyungal","Please help me"],
+   ["உங்களுக்கு ஆங்கிலம் தெரியுமா?","Ungalukku aangilam theriyumaa?","Do you speak English?"]
+ ]}
+]},
+{"id":"gujarati","name":"Gujarati","native":"ગુજરાતી","code":"gu-IN","learners":"1.8M Learners","lessons":[
+ {"id":"basics","title":"Basics","icon":"📚","words":[
+   ["નમસ્તે","Namaste","Hello"],
+   ["આભાર","Aabhar","Thank you"],
+   ["હા","Haa","Yes"],
+   ["ના","Naa","No"],
+   ["પાણી","Paani","Water"],
+   ["ખોરાક","Khorak","Food"],
+   ["મિત્ર","Mitra","Friend"],
+   ["મહેરબાની કરીને","Meherbani karine","Please"]
+ ]},
+ {"id":"greetings","title":"Greetings","icon":"👋","words":[
+   ["સુપ્રભાત","Suprabhat","Good morning"],
+   ["શુભ સાંજ","Shubh saanj","Good evening"],
+   ["શુભ રાત્રિ","Shubh ratri","Good night"],
+   ["સ્વાગત છે","Swagat chhe","Welcome"],
+   ["ફરી મળીશું","Fari malishu","See you again"],
+   ["કેમ છો?","Kem chho?","How are you?"],
+   ["હું મજામાં છું","Hu majama chhu","I am fine"],
+   ["માફ કરજો","Maaf karjo","Sorry"]
+ ]},
+ {"id":"numbers","title":"Numbers 1–8","icon":"🔢","words":[
+   ["એક","Ek","One"],
+   ["બે","Be","Two"],
+   ["ત્રણ","Tran","Three"],
+   ["ચાર","Chaar","Four"],
+   ["પાંચ","Paanch","Five"],
+   ["છ","Chha","Six"],
+   ["સાત","Saat","Seven"],
+   ["આઠ","Aath","Eight"]
+ ]},
+ {"id":"phrases","title":"Useful Phrases","icon":"💬","words":[
+   ["તમારું નામ શું છે?","Tamaru naam shu chhe?","What is your name?"],
+   ["મને સમજાતું નથી","Mane samjaatu nathi","I do not understand"],
+   ["આની કિંમત કેટલી છે?","Aani kimmat ketli chhe?","How much is this?"],
+   ["શૌચાલય ક્યાં છે?","Shauchalay kyaa chhe?","Where is the bathroom?"],
+   ["મને ભૂખ લાગી છે","Mane bhookh laagi chhe","I am hungry"],
+   ["મને તરસ લાગી છે","Mane taras laagi chhe","I am thirsty"],
+   ["મને મદદ કરો","Mane madad karo","Please help me"],
+   ["શું તમને અંગ્રેજી આવડે છે?","Shu tamne angrezi aavde chhe?","Do you speak English?"]
+ ]}
+]},
+{"id":"sanskrit","name":"Sanskrit","native":"संस्कृतम्","code":"hi-IN","learners":"650K Learners","lessons":[
+ {"id":"basics","title":"Basics","icon":"📚","words":[
+   ["नमस्ते","Namaste","Hello"],
+   ["धन्यवादः","Dhanyavadah","Thank you"],
+   ["आम्","Aam","Yes"],
+   ["न","Na","No"],
+   ["जलम्","Jalam","Water"],
+   ["भोजनम्","Bhojanam","Food"],
+   ["मित्रम्","Mitram","Friend"],
+   ["कृपया","Kripaya","Please"]
+ ]},
+ {"id":"greetings","title":"Greetings","icon":"👋","words":[
+   ["सुप्रभातम्","Suprabhatam","Good morning"],
+   ["शुभ सन्ध्या","Shubha sandhya","Good evening"],
+   ["शुभ रात्रिः","Shubha ratrih","Good night"],
+   ["स्वागतम्","Swagatam","Welcome"],
+   ["पुनर्मिलामः","Punarmilamah","See you again"],
+   ["कथं भवान्?","Katham bhavan?","How are you?"],
+   ["अहं कुशली अस्मि","Aham kushali asmi","I am fine"],
+   ["क्षमस्व","Kshamasva","Sorry"]
+ ]},
+ {"id":"numbers","title":"Numbers 1–8","icon":"🔢","words":[
+   ["एकम्","Ekam","One"],
+   ["द्वे","Dve","Two"],
+   ["त्रीणि","Trini","Three"],
+   ["चत्वारि","Chatvari","Four"],
+   ["पञ्च","Pancha","Five"],
+   ["षट्","Shat","Six"],
+   ["सप्त","Sapta","Seven"],
+   ["अष्ट","Ashta","Eight"]
+ ]},
+ {"id":"phrases","title":"Useful Phrases","icon":"💬","words":[
+   ["भवतः नाम किम्?","Bhavatah naam kim?","What is your name?"],
+   ["अहं न अवगच्छामि","Aham na avagacchami","I do not understand"],
+   ["एतस्य मूल्यं किम्?","Etasya mulyam kim?","How much is this?"],
+   ["शौचालयः कुत्र अस्ति?","Shauchalayah kutra asti?","Where is the bathroom?"],
+   ["अहं बुभुक्षितः अस्मि","Aham bubhukshitah asmi","I am hungry"],
+   ["अहं तृषितः अस्मि","Aham trishitah asmi","I am thirsty"],
+   ["मम साहाय्यं कुरु","Mama sahayyam kuru","Please help me"],
+   ["किं भवान् आङ्ग्लभाषां जानाति?","Kim bhavan Angla-bhasham janati?","Do you speak English?"]
+ ]}
+]},
+{"id":"bengali","name":"Bengali","native":"বাংলা","code":"bn-IN","learners":"700K Learners","lessons":[
+ {"id":"basics","title":"Basics","icon":"📚","words":[
+   ["নমস্কার","Nomoshkar","Hello"],
+   ["ধন্যবাদ","Dhonnobad","Thank you"],
+   ["হ্যাঁ","Hyan","Yes"],
+   ["না","Na","No"],
+   ["জল","Jol","Water"],
+   ["খাবার","Khabar","Food"],
+   ["বন্ধু","Bondhu","Friend"],
+   ["দয়া করে","Doya kore","Please"]
+ ]},
+ {"id":"greetings","title":"Greetings","icon":"👋","words":[
+   ["সুপ্রভাত","Suprabhat","Good morning"],
+   ["শুভ সন্ধ্যা","Shubho shondhya","Good evening"],
+   ["শুভ রাত্রি","Shubho ratri","Good night"],
+   ["স্বাগতম","Swagotom","Welcome"],
+   ["আবার দেখা হবে","Abar dekha hobe","See you again"],
+   ["আপনি কেমন আছেন?","Apni kemon achhen?","How are you?"],
+   ["আমি ভালো আছি","Ami bhalo achhi","I am fine"],
+   ["দুঃখিত","Dukkhito","Sorry"]
+ ]},
+ {"id":"numbers","title":"Numbers 1–8","icon":"🔢","words":[
+   ["এক","Ek","One"],
+   ["দুই","Dui","Two"],
+   ["তিন","Tin","Three"],
+   ["চার","Char","Four"],
+   ["পাঁচ","Panch","Five"],
+   ["ছয়","Chhoy","Six"],
+   ["সাত","Shat","Seven"],
+   ["আট","Aat","Eight"]
+ ]},
+ {"id":"phrases","title":"Useful Phrases","icon":"💬","words":[
+   ["আপনার নাম কী?","Apnar naam ki?","What is your name?"],
+   ["আমি বুঝতে পারছি না","Ami bujhte parchhi na","I do not understand"],
+   ["এটার দাম কত?","Etar daam koto?","How much is this?"],
+   ["বাথরুম কোথায়?","Bathroom kothay?","Where is the bathroom?"],
+   ["আমার খিদে পেয়েছে","Amar khide peyechhe","I am hungry"],
+   ["আমার তেষ্টা পেয়েছে","Amar teshta peyechhe","I am thirsty"],
+   ["আমাকে সাহায্য করুন","Amake shahajyo korun","Please help me"],
+   ["আপনি কি ইংরেজি বলেন?","Apni ki Ingreji bolen?","Do you speak English?"]
+ ]}
+]}
+]

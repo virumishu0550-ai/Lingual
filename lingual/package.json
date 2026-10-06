@@ -1,0 +1,8 @@
+{
+  "name": "lingual-language-learner",
+  "version": "1.0.0",
+  "description": "Local language learning app (Express + JSON storage)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "dependencies": { "bcryptjs": "^2.4.3", "express": "^4.19.2", "jsonwebtoken": "^9.0.2" }
+}
